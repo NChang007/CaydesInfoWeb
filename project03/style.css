@@ -1,0 +1,73 @@
+.jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(./images/cayed03.jpg); 
+    height: 600px; 
+    background-size: cover;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: end;
+}
+
+.content2 {
+    margin: 3rem 5rem 0rem 5rem;
+    /* background: radial-gradient() */
+}
+
+.lifeAsHuman > p {
+    margin: 1rem;
+    font-size: large;
+}
+
+p {
+    font-size: large;
+
+}
+h3{
+    letter-spacing: 3px;
+}
+
+.bigDivider {
+    background-color: rgb(38, 38, 54);
+    height: 30rem;
+    margin: 3rem 0rem 3rem 0rem;
+    background-size: cover;
+    display: flex;
+
+}
+.bigDivider > img:nth-child(1){
+    margin: 2rem;
+    width: auto;
+    height: 25rem;
+}
+.bigDivider > img:nth-child(2){
+    margin: 2rem;
+    width: auto;
+    height: 25rem;
+}
+.bigDivider > img:nth-child(3){
+    margin: 2rem;
+    width: auto;
+    height: 25rem;
+}
+
+.bigDivider2 {
+    background-color: rgb(38, 38, 54);
+    height: 30rem;
+    margin: 3rem 0rem 3rem 0rem;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+
+}
+.bigDivider2 > img {
+    margin: 1rem;
+}
+
+.content3 {
+    margin: 3rem 5rem 0rem 5rem;
+
+}
